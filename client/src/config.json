@@ -1,0 +1,6 @@
+{
+  "apiGateway": {
+    "REGION": "us-east-1",
+    "URL":"https://tsdfpjhkpa.execute-api.us-east-1.amazonaws.com/dev"
+  }
+}
